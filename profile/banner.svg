@@ -1,0 +1,542 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="375" fill="none">
+  <g filter="url(#filter0_d)">
+    <rect
+      width="800"
+      height="325"
+      x="25"
+      y="25"
+      fill="url(#paint0_linear)"
+      rx="15"
+    />
+  </g>
+  <g filter="url(#filter1_d)">
+    <path
+      d="M305.75 175.404C307.334 177.889 308.793 180.311 310.408 182.64C339.537 224.78 378.479 253.257 427.979 266.983C437.916 269.746 448.009 271.579 458.257 272.79C471.641 274.404 485.056 274.746 498.472 274.063C515.489 273.193 532.289 270.678 548.872 266.796C548.966 266.765 549.059 266.796 549.214 266.889C548.127 267.355 547.071 267.852 545.984 268.318C544.897 268.784 543.779 269.249 542.693 269.684C526.7 276.081 510.179 280.646 493.161 283.441C480.088 285.584 466.952 286.578 453.723 286.081C409.408 284.528 372.113 267.759 342.425 234.593C328.388 218.911 317.55 201.179 308.669 182.174C307.675 180.031 306.744 177.889 305.781 175.746C305.75 175.715 305.75 175.622 305.75 175.404Z"
+      fill="white"
+    />
+    <path
+      d="M458.724 86C455.991 88.2669 453.32 90.627 450.991 93.2977C447.265 97.6142 444.656 102.459 443.818 108.141C443.072 113.172 443.662 118.11 444.998 122.985C446.643 128.979 449.252 134.568 452.202 140.034C454.128 143.636 455.711 147.363 456.363 151.4C457.575 158.884 454.966 164.691 448.693 168.883C444.314 171.802 439.408 173.262 434.284 174.131C433.539 174.255 432.793 174.349 431.924 174.442C432.11 174.255 432.203 174.162 432.297 174.1C438.818 169.504 441.116 163.107 438.973 155.406C437.979 151.834 436.396 148.543 434.222 145.53C430.34 140.096 427.048 134.351 425.34 127.83C422.483 116.774 425.465 107.396 433.632 99.5706C439.284 94.1361 446.053 90.5339 453.289 87.708C455.059 87.0248 456.86 86.4348 458.724 86Z"
+      fill="white"
+    />
+    <path
+      d="M422.887 174.69C423.787 173.293 424.502 171.833 424.75 170.156C425.185 167.517 424.502 165.157 423.073 162.983C421.8 160.995 420.185 159.35 418.26 158.014C415.527 156.089 412.95 154.008 410.838 151.4C408.012 147.953 406.211 144.102 406.335 139.568C406.397 137.332 406.925 135.159 407.826 133.109C410.403 127.147 414.844 122.768 420.03 118.979C419.626 119.694 419.223 120.377 418.819 121.091C414.223 129.072 414.875 136.649 420.496 143.885C422.607 146.617 425.061 149.071 427.607 151.4C429.439 153.077 431.085 154.971 432.203 157.207C434.035 160.84 433.849 164.38 431.551 167.734C429.346 170.902 426.303 173.013 422.887 174.69Z"
+      fill="white"
+    />
+    <path
+      d="M301.839 192.577C305.752 203.011 310.938 212.762 317.118 222.016C339.011 254.778 368.885 276.827 406.398 288.658C406.677 288.752 406.926 288.845 407.205 289C405.653 288.938 404.131 288.596 402.609 288.255C378.977 282.882 357.954 272.355 339.942 256.021C323.484 241.115 311.994 222.917 304.572 202.049C303.485 198.974 302.46 195.9 301.622 192.764C301.591 192.546 301.684 192.515 301.839 192.577Z"
+      fill="white"
+    />
+    <path
+      d="M301.838 192.577C301.776 192.639 301.714 192.701 301.652 192.763C301.248 192.049 301.186 191.211 301 190.434C301.373 191.087 301.652 191.801 301.838 192.577Z"
+      fill="white"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M467.945 185.218H416.481C399.342 185.218 382.172 185.218 365.032 185.28C364.411 185.28 363.79 185.28 363.2 185.373C361.151 185.683 360.188 186.801 360.188 188.851C360.188 197.95 360.188 207.017 360.219 216.085C360.219 220.526 360.933 224.874 362.082 229.159C362.207 229.687 362.486 230.06 362.921 230.37C382.671 245.183 404.409 256.052 428.134 262.946C428.631 263.07 429.066 263.132 429.563 263.039C433.382 262.325 437.14 261.393 440.804 260.151C441.194 260.015 441.584 259.881 441.975 259.747C445.07 258.684 448.167 257.62 450.897 255.772C457.698 251.114 462.915 244.965 466.952 237.823C467.293 237.202 467.666 236.985 468.38 236.985C470.568 237.031 472.739 237.025 474.919 237.019C475.647 237.018 476.375 237.016 477.106 237.016C477.655 237.006 478.201 237.011 478.745 237.015C480.048 237.025 481.341 237.036 482.634 236.86C494.124 235.246 501.608 224.408 498.999 213.104C497.167 205.216 490.335 199.161 482.261 198.322C480.36 198.111 478.445 198.144 476.534 198.177C475.636 198.193 474.739 198.208 473.846 198.198C473.162 198.198 473.007 198.012 473.007 197.329C473.028 195.425 473.021 193.535 473.014 191.641C473.011 190.692 473.007 189.742 473.007 188.789C473.007 187.236 472.355 186.242 470.896 185.652C469.933 185.28 468.939 185.218 467.945 185.218ZM472.976 206.272V212.359C473.225 217.172 472.572 222.638 470.709 227.979C470.492 228.631 470.709 228.724 471.299 228.724C472.577 228.711 473.849 228.715 475.121 228.718C476.815 228.724 478.508 228.729 480.212 228.693C486.112 228.569 491.05 224.128 491.577 218.57C492.167 212.39 488.441 207.111 482.448 205.868C480.46 205.454 478.43 205.51 476.405 205.565C475.394 205.592 474.383 205.62 473.38 205.589C472.936 205.563 472.953 205.844 472.97 206.119C472.973 206.171 472.976 206.223 472.976 206.272Z"
+      fill="white"
+    />
+  </g>
+  <defs>
+    <filter
+      id="filter0_d"
+      width="850"
+      height="375"
+      x="0"
+      y="0"
+      color-interpolation-filters="sRGB"
+      filterUnits="userSpaceOnUse"
+    >
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix
+        in="SourceAlpha"
+        values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+      />
+      <feOffset />
+      <feGaussianBlur stdDeviation="12.5" />
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+    </filter>
+    <filter
+      id="filter1_d"
+      width="360"
+      height="240"
+      x="245"
+      y="67"
+      color-interpolation-filters="sRGB"
+      filterUnits="userSpaceOnUse"
+    >
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix
+        in="SourceAlpha"
+        values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+      />
+      <feOffset />
+      <feGaussianBlur stdDeviation="15" />
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+    </filter>
+    <linearGradient
+      id="paint0_linear"
+      x1="425"
+      x2="321.6"
+      y1="25"
+      y2="388.1"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#1A1937" />
+      <stop offset="1" stop-color="#131321" />
+    </linearGradient>
+  </defs>
+  <foreignObject width="100%" height="100%"
+    ><div xmlns="http://www.w3.org/1999/xhtml" class="outer">
+      <div class="rain-container back">
+        <div
+          style="left: 96.29%; animation-delay: -1526.27ms; height: 71.5px"
+          opacity="67%"
+        />
+        <div
+          style="left: 12.59%; animation-delay: -1698.95ms; height: 93.6px"
+          opacity="69.1%"
+        />
+        <div
+          style="left: 2.75%; animation-delay: -1706.9ms; height: 62.69px"
+          opacity="67.9%"
+        />
+        <div
+          style="left: 57.13%; animation-delay: -1838.52ms; height: 77.91px"
+          opacity="61.6%"
+        />
+        <div
+          style="left: 92.67%; animation-delay: -1563.47ms; height: 72.54px"
+          opacity="62.4%"
+        />
+        <div
+          style="left: 12.94%; animation-delay: -1977.04ms; height: 85.9px"
+          opacity="53.3%"
+        />
+        <div
+          style="left: 95.34%; animation-delay: -404.42ms; height: 68.96px"
+          opacity="66.7%"
+        />
+        <div
+          style="left: 58.03%; animation-delay: -72.35ms; height: 60.06px"
+          opacity="66%"
+        />
+        <div
+          style="left: 34.31%; animation-delay: -326.71ms; height: 82.4px"
+          opacity="50.2%"
+        />
+        <div
+          style="left: 104.51%; animation-delay: -1855.15ms; height: 76.68px"
+          opacity="53.8%"
+        />
+        <div
+          style="left: 32.18%; animation-delay: -844.67ms; height: 52.72px"
+          opacity="61.7%"
+        />
+        <div
+          style="left: 5.75%; animation-delay: -807.19ms; height: 99.24px"
+          opacity="69.7%"
+        />
+        <div
+          style="left: 67.62%; animation-delay: -1225.2ms; height: 64.08px"
+          opacity="60.6%"
+        />
+        <div
+          style="left: 36.65%; animation-delay: -349.94ms; height: 74.01px"
+          opacity="50.1%"
+        />
+        <div
+          style="left: 18.58%; animation-delay: -1800.94ms; height: 67.66px"
+          opacity="52.9%"
+        />
+        <div
+          style="left: 96.55%; animation-delay: -243.9ms; height: 85.71px"
+          opacity="73.5%"
+        />
+        <div
+          style="left: 47.45%; animation-delay: -1115.17ms; height: 93.82px"
+          opacity="51.5%"
+        />
+        <div
+          style="left: 36.75%; animation-delay: -389.35ms; height: 89.39px"
+          opacity="59.3%"
+        />
+        <div
+          style="left: 69.24%; animation-delay: -317.51ms; height: 83.19px"
+          opacity="50.3%"
+        />
+        <div
+          style="left: 29.41%; animation-delay: -118.37ms; height: 61.61px"
+          opacity="53.8%"
+        />
+        <div
+          style="left: 74.43%; animation-delay: -1005.9ms; height: 70.81px"
+          opacity="59.3%"
+        />
+        <div
+          style="left: 45.89%; animation-delay: -1079.76ms; height: 51.93px"
+          opacity="54.3%"
+        />
+        <div
+          style="left: 104.61%; animation-delay: -1554.52ms; height: 91.32px"
+          opacity="71.5%"
+        />
+        <div
+          style="left: 29.77%; animation-delay: -1375.63ms; height: 72.58px"
+          opacity="53.9%"
+        />
+        <div
+          style="left: 33.25%; animation-delay: -1893.18ms; height: 61.08px"
+          opacity="50.2%"
+        />
+        <div
+          style="left: 0.89%; animation-delay: -141.84ms; height: 56.14px"
+          opacity="60.8%"
+        />
+        <div
+          style="left: 4.59%; animation-delay: -1877.06ms; height: 96.49px"
+          opacity="71.9%"
+        />
+        <div
+          style="left: 29.53%; animation-delay: -1084.96ms; height: 61.5px"
+          opacity="57.1%"
+        />
+        <div
+          style="left: 76.22%; animation-delay: -393.25ms; height: 79.75px"
+          opacity="60.5%"
+        />
+        <div
+          style="left: 62.99%; animation-delay: -390.13ms; height: 74.12px"
+          opacity="58.8%"
+        />
+        <div
+          style="left: 42.38%; animation-delay: -1628.09ms; height: 51.36px"
+          opacity="68.8%"
+        />
+        <div
+          style="left: -3.11%; animation-delay: -1601.36ms; height: 83.87px"
+          opacity="60.6%"
+        />
+        <div
+          style="left: 43.26%; animation-delay: -960.69ms; height: 84.96px"
+          opacity="73.5%"
+        />
+        <div
+          style="left: 89.9%; animation-delay: -1984.79ms; height: 96.35px"
+          opacity="66.1%"
+        />
+        <div
+          style="left: 62.22%; animation-delay: -1357.67ms; height: 66.81px"
+          opacity="50.6%"
+        />
+        <div
+          style="left: 33.54%; animation-delay: -1678.51ms; height: 79.8px"
+          opacity="69.9%"
+        />
+        <div
+          style="left: 59.24%; animation-delay: -1445.72ms; height: 83.43px"
+          opacity="53.8%"
+        />
+        <div
+          style="left: 20.4%; animation-delay: -785.02ms; height: 74.23px"
+          opacity="63.3%"
+        />
+        <div
+          style="left: 5.8%; animation-delay: -1186.24ms; height: 80.03px"
+          opacity="72.3%"
+        />
+        <div
+          style="left: 84.92%; animation-delay: -1145.91ms; height: 79.2px"
+          opacity="54.6%"
+        />
+        <div
+          style="left: 17.07%; animation-delay: -239.82ms; height: 89.53px"
+          opacity="59.5%"
+        />
+        <div
+          style="left: 4.36%; animation-delay: -621.3ms; height: 50.25px"
+          opacity="50.9%"
+        />
+        <div
+          style="left: 103.8%; animation-delay: -1327.13ms; height: 80.51px"
+          opacity="66.5%"
+        />
+        <div
+          style="left: 4.74%; animation-delay: -1938.72ms; height: 72.11px"
+          opacity="59%"
+        />
+        <div
+          style="left: 84.05%; animation-delay: -205.02ms; height: 62.66px"
+          opacity="69.9%"
+        />
+        <div
+          style="left: 5.89%; animation-delay: -1319.35ms; height: 93.36px"
+          opacity="54.7%"
+        />
+        <div
+          style="left: 79.11%; animation-delay: -859.1ms; height: 78.02px"
+          opacity="56.5%"
+        />
+        <div
+          style="left: 51.78%; animation-delay: -1244.79ms; height: 61.97px"
+          opacity="53.3%"
+        />
+        <div
+          style="left: 49.65%; animation-delay: -1284.62ms; height: 72.51px"
+          opacity="60.3%"
+        />
+        <div
+          style="left: 95.11%; animation-delay: -987.65ms; height: 72.64px"
+          opacity="58.5%"
+        />
+      </div>
+      <div class="rain-container front">
+        <div
+          style="left: 77.2%; animation-delay: -1717.53ms; height: 92.91px"
+          opacity="53.9%"
+        />
+        <div
+          style="left: 19.37%; animation-delay: -1625.49ms; height: 94.45px"
+          opacity="59%"
+        />
+        <div
+          style="left: 7.86%; animation-delay: -713.73ms; height: 90.03px"
+          opacity="51.7%"
+        />
+        <div
+          style="left: 37.92%; animation-delay: -1750.93ms; height: 87.13px"
+          opacity="65.9%"
+        />
+        <div
+          style="left: 35.46%; animation-delay: -640.49ms; height: 85.28px"
+          opacity="63.2%"
+        />
+        <div
+          style="left: -4.73%; animation-delay: -973.41ms; height: 87.33px"
+          opacity="74.2%"
+        />
+        <div
+          style="left: 77.74%; animation-delay: -1836.75ms; height: 94.38px"
+          opacity="59.7%"
+        />
+        <div
+          style="left: 76.58%; animation-delay: -1431.69ms; height: 87.28px"
+          opacity="71.6%"
+        />
+        <div
+          style="left: 59.48%; animation-delay: -772.89ms; height: 62.3px"
+          opacity="51.5%"
+        />
+        <div
+          style="left: 8.94%; animation-delay: -1275.87ms; height: 61.36px"
+          opacity="62.5%"
+        />
+        <div
+          style="left: 91.89%; animation-delay: -220.38ms; height: 53.52px"
+          opacity="54.4%"
+        />
+        <div
+          style="left: 13.18%; animation-delay: -600.58ms; height: 67.48px"
+          opacity="59.3%"
+        />
+        <div
+          style="left: 9.84%; animation-delay: -695.57ms; height: 85.75px"
+          opacity="64.3%"
+        />
+        <div
+          style="left: 36.82%; animation-delay: -344.5ms; height: 80.04px"
+          opacity="62.6%"
+        />
+        <div
+          style="left: 40.95%; animation-delay: -1541.03ms; height: 56.11px"
+          opacity="53.4%"
+        />
+        <div
+          style="left: 81.08%; animation-delay: -841.26ms; height: 94.88px"
+          opacity="71.5%"
+        />
+        <div
+          style="left: 77.31%; animation-delay: -1415.44ms; height: 90.23px"
+          opacity="63.4%"
+        />
+        <div
+          style="left: 89.18%; animation-delay: -374.58ms; height: 94.96px"
+          opacity="55.9%"
+        />
+        <div
+          style="left: 64.21%; animation-delay: -1890.45ms; height: 82.81px"
+          opacity="73.9%"
+        />
+        <div
+          style="left: -1.28%; animation-delay: -1965.77ms; height: 92.39px"
+          opacity="67.4%"
+        />
+        <div
+          style="left: 4.67%; animation-delay: -1070.99ms; height: 58.46px"
+          opacity="53.9%"
+        />
+        <div
+          style="left: -1.86%; animation-delay: -493.54ms; height: 74.92px"
+          opacity="59.3%"
+        />
+        <div
+          style="left: 33.76%; animation-delay: -1452.07ms; height: 67.8px"
+          opacity="72.1%"
+        />
+        <div
+          style="left: 56.57%; animation-delay: -1969.64ms; height: 66.64px"
+          opacity="53.1%"
+        />
+        <div
+          style="left: 3.63%; animation-delay: -1404.76ms; height: 56.51px"
+          opacity="53.6%"
+        />
+        <div
+          style="left: 9.06%; animation-delay: -1709.77ms; height: 55.96px"
+          opacity="73.1%"
+        />
+        <div
+          style="left: 24.89%; animation-delay: -1197.78ms; height: 99.39px"
+          opacity="50.9%"
+        />
+        <div
+          style="left: 27.84%; animation-delay: -843.22ms; height: 51.05px"
+          opacity="69.8%"
+        />
+        <div
+          style="left: 36.01%; animation-delay: -1260.6ms; height: 65.53px"
+          opacity="61.2%"
+        />
+        <div
+          style="left: 81.81%; animation-delay: -153.83ms; height: 79.97px"
+          opacity="60.3%"
+        />
+        <div
+          style="left: 46.27%; animation-delay: -287.28ms; height: 94.89px"
+          opacity="62.5%"
+        />
+        <div
+          style="left: 83.34%; animation-delay: -1297.02ms; height: 59.3px"
+          opacity="63.3%"
+        />
+        <div
+          style="left: 30.95%; animation-delay: -296.22ms; height: 95.92px"
+          opacity="70.8%"
+        />
+        <div
+          style="left: 90.87%; animation-delay: -119.69ms; height: 92.21px"
+          opacity="63.5%"
+        />
+        <div
+          style="left: 91.53%; animation-delay: -1731.25ms; height: 83.05px"
+          opacity="72.1%"
+        />
+        <div
+          style="left: 30.09%; animation-delay: -40.23ms; height: 58.33px"
+          opacity="58.8%"
+        />
+        <div
+          style="left: 100.96%; animation-delay: -788.24ms; height: 90.31px"
+          opacity="71.8%"
+        />
+        <div
+          style="left: 54.65%; animation-delay: -1558.03ms; height: 52.34px"
+          opacity="51.9%"
+        />
+        <div
+          style="left: 14.39%; animation-delay: -1880.28ms; height: 90.91px"
+          opacity="52%"
+        />
+        <div
+          style="left: 76.81%; animation-delay: -617.3ms; height: 91.23px"
+          opacity="69.3%"
+        />
+        <div
+          style="left: 2.93%; animation-delay: -1702.86ms; height: 96.73px"
+          opacity="50%"
+        />
+        <div
+          style="left: 85.52%; animation-delay: -1692.87ms; height: 87.5px"
+          opacity="67.7%"
+        />
+        <div
+          style="left: 78.54%; animation-delay: -1167.12ms; height: 68.97px"
+          opacity="50%"
+        />
+        <div
+          style="left: 4.73%; animation-delay: -652.87ms; height: 96.58px"
+          opacity="59.6%"
+        />
+        <div
+          style="left: 22.27%; animation-delay: -1828.06ms; height: 74.54px"
+          opacity="51.3%"
+        />
+        <div
+          style="left: 52.93%; animation-delay: -1196.49ms; height: 62.54px"
+          opacity="55.4%"
+        />
+        <div
+          style="left: 34.04%; animation-delay: -1969.62ms; height: 60.68px"
+          opacity="69.9%"
+        />
+        <div
+          style="left: 68.71%; animation-delay: -1507.29ms; height: 96.1px"
+          opacity="74.2%"
+        />
+        <div
+          style="left: -3%; animation-delay: -436.39ms; height: 60.63px"
+          opacity="64.4%"
+        />
+        <div
+          style="left: 100.46%; animation-delay: -577.69ms; height: 55.66px"
+          opacity="65%"
+        />
+      </div>
+      <style>
+        .outer {
+          height: 325px;
+          width: 800px;
+          position: relative;
+          top: 25px;
+          left: 25px;
+          border-radius: 15px;
+          overflow: hidden;
+        }
+        .rain-container {
+          height: 325px;
+          width: 100%;
+          transform: skewX(-15deg);
+          position: absolute;
+          opacity: 0.5;
+        }
+        .rain-container.front {
+          transform: skewX(-10deg);
+        }
+        .rain-container&gt;
+        div {
+          height: 150px;
+          width: 2px;
+          background: rgba(255, 255, 255, 0.2);
+          position: absolute;
+          left: 50%;
+          animation: 2s rain linear infinite;
+        }
+        @keyframes rain {
+          0% {
+            transform: translateY(-450px);
+          }
+          40% {
+            transform: translateY(450px);
+          }
+          100% {
+            transform: translateY(450px);
+          }
+        }
+      </style>
+    </div></foreignObject
+  >
+</svg>
